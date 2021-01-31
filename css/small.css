@@ -68,6 +68,7 @@
     div.social {
         background-color: black;
         display: flex;
+        padding: 1rem 0;
         
     }
     div.social a {
