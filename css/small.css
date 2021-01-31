@@ -66,6 +66,16 @@
     }
 
     div.social {
-        background-color: greenyellow;
+        background-color: black;
+        display: flex;
+        
     }
+    div.social a {
+       flex-basis: 25%;
+       text-align: center;
+       color: white;
+       font-size: 3rem;
+    }
+    div.social a:hover {color: orange;}
+    
     
